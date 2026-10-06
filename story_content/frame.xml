@@ -54,7 +54,7 @@
           <option name="wraplistitems" value="false" />
           <option name="tooltips" value="true" />
           <option name="autocollapse" value="true" />
-          <option name="autonumber" value="false" />
+          <option name="autonumber" value="true" />
           <option name="enableresultsicons" value="true" />
         </options>
       </optiongroup>
@@ -1608,11 +1608,6 @@
         <file bold="false" italic="false" />
       </files>
     </font>
-    <font name="Azo Sans">
-      <files>
-        <file bold="false" italic="false" />
-      </files>
-    </font>
   </fonts>
   <sounds enabled="true" />
   <nav_data>
@@ -1639,7 +1634,7 @@
         </slidelink>
         <slidelink slideid="_player.6jPQBZxYaXJ" displaytext="Problem Solving and Data Visualization" expand="true" type="slide" translationId="62hXqgbSuXu">
           <links>
-            <slidelink slideid="_player.6jPQBZxYaXJ.6esQevMh8tg" displaytext="Defining a Problem: &#xA;Step 1 - Understanding Populations &amp;amp; Subgroups" expand="false" type="slide" translationId="6BB3efBdzET" />
+            <slidelink slideid="_player.6jPQBZxYaXJ.6esQevMh8tg" displaytext="Defining a Problem: Step 1 - Understanding Populations &amp;amp; Subgroups" expand="false" type="slide" translationId="6BB3efBdzET" />
             <slidelink slideid="_player.6jPQBZxYaXJ.5bfiJ1jItSf" displaytext="Understanding Populations &amp;amp; Subgroups" expand="false" type="slide" translationId="5raT46wdynO" />
             <slidelink slideid="_player.6jPQBZxYaXJ.6Notbm5ac9y" displaytext="Understanding Metrics" expand="false" type="slide" translationId="5XvUzsn4vTk" />
             <slidelink slideid="_player.6jPQBZxYaXJ.5YFRGcGZ7ik" displaytext="Quantitative Metrics That Are Most Common in FFPS CQI" expand="false" type="slide" translationId="6bK9ALhXew6" />
@@ -1700,22 +1695,22 @@
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Apply California’s 5-Step CQI Process to prevention services&amp;#xA;" /&gt;
+      &lt;Span Text="Apply California’s 5-Step CQI Process to prevention services.&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Learn practical steps to integrate the 5-Step CQI Process into agency workflows&amp;#xA;" /&gt;
+      &lt;Span Text="Learn practical steps to integrate the 5-Step CQI Process into agency workflows.&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Develop strategies to overcome common CQI implementation barriers" /&gt;
+      &lt;Span Text="Develop strategies to overcome common CQI implementation barriers." /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
       <slidetranscript slideid="6TJvjuNAqB4.5wmQ8pebKCR" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="2">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
       &lt;Span Text="Module 5 is broken down into four brief applications:&amp;#xD;&amp;#xA;"&gt;
@@ -1723,42 +1718,26 @@
       &lt;/Span&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Brief Application 1: Review of modules 1-4 and how to interpret fidelity and outcome metrics.&amp;#xD;&amp;#xA;"&gt;
+      &lt;Span Text="Brief Application 1: Review of modules 1-4 and how to interpret fidelity and outcome metrics.&amp;#xD;Brief Application 2: How to identify and define a problem from fidelity and outcome metrics and how to conduct a root cause analysis.&amp;#xD;Brief Application 3: Developing, implementing, testing, and revising solutions.&amp;#xD;Brief Application 4: Key implementation barriers and how to address them.&amp;#xA;"&gt;
         &lt;Style FontFamily="Lato" FontSize="12" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="dk1,09" BackgroundColor="#000000,00" Elevation="Normal" Spacing="0" DisplayCase="AsIs" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Brief Application 2: How to identify and define a problem from fidelity and outcome metrics and how to conduct a root cause analysis.&amp;#xD;&amp;#xA;"&gt;
+      &lt;Span Text="&amp;#xA;"&gt;
         &lt;Style FontFamily="Lato" FontSize="12" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="dk1,09" BackgroundColor="#000000,00" Elevation="Normal" Spacing="0" DisplayCase="AsIs" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
+      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
         &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
       &lt;/Style&gt;
-      &lt;Span Text="Brief Application 3: Developing, implementing, testing, and revising solutions.&amp;#xD;&amp;#xA;"&gt;
-        &lt;Style FontFamily="Lato" FontSize="12" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="dk1,09" BackgroundColor="#000000,00" Elevation="Normal" Spacing="0" DisplayCase="AsIs" /&gt;
-      &lt;/Span&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Brief Application 4: Key implementation barriers and how to address them.&amp;#xD;&amp;#xA;"&gt;
-        &lt;Style FontFamily="Lato" FontSize="12" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="dk1,09" BackgroundColor="#000000,00" Elevation="Normal" Spacing="0" DisplayCase="AsIs" /&gt;
-      &lt;/Span&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text=" In this session we will be covering Brief Application 1."&gt;
+      &lt;Span Text="In this session we will be covering Brief Application 1."&gt;
         &lt;Style FontFamily="Lato" FontSize="12" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="dk1,09" BackgroundColor="#000000,00" Elevation="Normal" Spacing="0" DisplayCase="AsIs" /&gt;
       &lt;/Span&gt;
     &lt;/Block&gt;
@@ -1795,119 +1774,98 @@
       <slidetranscript slideid="6D1mfzg1KER.66bAu42lJIe" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="5">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletChar="•" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="This slide shows the actual FFPSA legislation that describes the CQI requirement."&gt;
-        &lt;Style FontIsBold="False" /&gt;
-      &lt;/Span&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="This slide shows the actual FFPSA legislation that describes the CQI requirement." /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
       <slidetranscript slideid="6D1mfzg1KER.5VcE4mDEZQj" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="6">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="These are the CQI requirements for counties submitting CPPs.  The CQI related components include ongoing monitoring of the FFPS programs and continuous improvement, and adherence to model fidelity protocols and participation in state level fidelity oversight and coordination. "&gt;
-        &lt;Style FontIsBold="False" /&gt;
-      &lt;/Span&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="These are the CQI requirements for counties submitting CPPs.  The CQI related components include ongoing monitoring of the FFPS programs and continuous improvement, and adherence to model fidelity protocols and participation in state level fidelity oversight and coordination. " /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
       <slidetranscript slideid="6D1mfzg1KER.6V910QCqqEB" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="7">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="As a reminder, where applicable, counties should establish a maximum of three CQI Implementation Teams: &amp;#xD;&amp;#xA;" /&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="As a reminder, where applicable, counties should establish a maximum of three CQI Implementation Teams: &amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Home Visiting (HV) CQI Team: Designed to oversee the implementation of EBPs such as Healthy Families America (HFA), Nurse Family Partnership (NFP), Parents As Teachers (PAT), Homebuilders, and Family Check-Up. &amp;#xD;Motivational Interviewing (MI) CQI Team: Focused on supporting the implementation and fidelity monitoring of motivational interviewing. &amp;#xD;Mental Health (MH) CQI Team: Dedicated to overseeing the implementation of EBPs such as Parent Child Interaction Therapy (PCIT), Functional Family Therapy (FFT), Multisystemic Therapy (MST), and Brief Strategic Family Therapy (BSFT). &amp;#xD;&amp;#xA;" /&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Home Visiting (HV) CQI Team: Designed to oversee the implementation of EBPs such as Healthy Families America (HFA), Nurse Family Partnership (NFP), Parents As Teachers (PAT), Homebuilders, and Family Check-Up. &amp;#xD;Motivational Interviewing (MI) CQI Team: Focused on supporting the implementation and fidelity monitoring of motivational interviewing. &amp;#xD;Mental Health (MH) CQI Team: Dedicated to overseeing the implementation of EBPs such as Parent Child Interaction Therapy (PCIT), Functional Family Therapy (FFT), Multisystemic Therapy (MST), and Brief Strategic Family Therapy (BSFT). &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
       &lt;Span Text="Counties that do not establish separate teams must ensure that their existing CQI teams are structured to address the specific needs of EBP implementation. This may involve modifying members, meeting frequency, the agenda focus to ensure that CQI activities are meaningfully embedded into ongoing work. Regardless of structure, counties should ensure that these teams provide a dedicated space for monitoring EBP implementation and fidelity, identifying disparities, and driving continuous improvement.&amp;#xD;&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
+      &lt;Style /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
       <slidetranscript slideid="6D1mfzg1KER.6XIiEqSiqCw" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="8">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
+      &lt;Style /&gt;
       &lt;Span Text="The best practice recommendation in the CQI Plan is to establish dedicated CQI Implementation Teams aligned with the specific EBPs outlined in your county's and/or Tribe's CPP. This targeted approach supports fidelity and addresses challenges unique to each EBP. &amp;#xD;&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
+      &lt;Style /&gt;
       &lt;Span Text="This includes a maximum of three teams:&amp;#xD;Motivational Interviewing (MI) &amp;#xD;Home Visiting (HV) EBPs &amp;#xD;Mental Health (MH) EBPs &amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="&amp;#xD;By aligning teams with specific EBPs, counties and tribes can better accomplish the purpose of identifying data trends, challenges, and opportunities for improvement in delivery of evidence-based practices.&amp;#xD;&amp;#xA;" /&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xD;By aligning teams with specific EBPs, counties and tribes can better accomplish the purpose of identifying data trends, challenges, and opportunities for improvement in delivery of evidence-based practices.&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="County's and/or Tribe's FFPS CQI Teams have critical objectives focused on maintaining the CQI data infrastructure:&amp;#xD;Facilitate data collection &amp;amp; exchange for timely sharing of EBP data (reach, capacity, outcomes, fidelity) to inform decision-making across governance levels.-Review data regularly using CARES Dashboards to monitor progress, identify barriers, and make data-driven decisions.&amp;#xD;Analyze data and implement the 5-Step CQI Process to test changes, learn from outcomes, and implement sustainable improvements, driving continuous learning and system improvements.&amp;#xD;&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Frequency of team meetings is tiered: &amp;#xD;During the first year, monthly meetings for each CQI team (max of three) or designate team are recommended to ensure consistent monitoring of reach and capacity data using the CARES dashboards and provider data. These initial meetings should focus on identifying implementation challenges, tracking progress, and making timely adjustments to address issues such as underutilization or disparities in service access. While outcome and fidelity data will only be formally collected biannually or annually for PAT, early review of available data is critical to inform timely decision-making and course corrections. &amp;#xD;In the second year, it is recommended that the meeting cadence shift to a quarterly schedule as counties move toward more in-depth analyses of EBP effectiveness and fidelity. This transition supports deeper evaluations of longer-term trends and outcomes, providing an opportunity to assess whether EBPs are achieving their intended goals and maintaining adherence to model standards. Capacity and reach data should continue to be reviewed regularly to monitor service accessibility and utilization, ensuring that counties remain responsive to family and community needs. &amp;#xD;After the second year, counties may adjust the frequency of team meetings on an ad hoc basis to address specific challenges or respond to emerging needs. This flexible approach enables counties to maintain a responsive CQI process while ensuring that data collection and analysis remain consistent and aligned with local and statewide goals. By adapting their meeting cadence over time, teams can sustain momentum while focusing on the most pressing issues at each stage of implementation. &amp;#xD;&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="Most importantly, each team should include a diverse set of members to ensure comprehensive decision-making and promote equity.&amp;#xD;Recommended members includes compensated Tribal representatives or advocates and compensated lived/community experts, county's and/or Tribe's child welfare and probation FFPS/CQI leads and county's and/or Tribe's child welfare and probation administrators, contract holders, and EBP providers (recognizing this may be impossible for large or medium size counties with multiple providers).&amp;#xD;Diverse membership isn’t just a checkbox—it ensures decisions are informed by real-world experiences and promotes equity through an inclusive approach.&amp;#xD;CDSS is committed to supporting counties in compensating Tribal representatives, lived experts, and community experts for their participation – more on this will be shared in coming months.&amp;#xD;&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="In the next lesson, we will learn more about the process of maintaining a CQI Data Infrastructure.&amp;#xD;&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
+      &lt;Style /&gt;
       &lt;Span Text="&amp;#xA;" /&gt;
     &lt;/Block&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="County's and/or Tribe's FFPS CQI Teams have critical objectives focused on maintaining the CQI data infrastructure:&amp;#xD;Facilitate data collection &amp;amp; exchange for timely sharing of EBP data (reach, capacity, outcomes, fidelity) to inform decision-making across governance levels.-Review data regularly using CARES Dashboards to monitor progress, identify barriers, and make data-driven decisions.&amp;#xD;Analyze data and implement the 5-Step CQI Process to test changes, learn from outcomes, and implement sustainable improvements, driving continuous learning and system improvements.&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Frequency of team meetings is tiered: &amp;#xD;During the first year, monthly meetings for each CQI team (max of three) or designate team are recommended to ensure consistent monitoring of reach and capacity data using the CARES dashboards and provider data. These initial meetings should focus on identifying implementation challenges, tracking progress, and making timely adjustments to address issues such as underutilization or disparities in service access. While outcome and fidelity data will only be formally collected biannually or annually for PAT, early review of available data is critical to inform timely decision-making and course corrections. &amp;#xD;In the second year, it is recommended that the meeting cadence shift to a quarterly schedule as counties move toward more in-depth analyses of EBP effectiveness and fidelity. This transition supports deeper evaluations of longer-term trends and outcomes, providing an opportunity to assess whether EBPs are achieving their intended goals and maintaining adherence to model standards. Capacity and reach data should continue to be reviewed regularly to monitor service accessibility and utilization, ensuring that counties remain responsive to family and community needs. &amp;#xD;After the second year, counties may adjust the frequency of team meetings on an ad hoc basis to address specific challenges or respond to emerging needs. This flexible approach enables counties to maintain a responsive CQI process while ensuring that data collection and analysis remain consistent and aligned with local and statewide goals. By adapting their meeting cadence over time, teams can sustain momentum while focusing on the most pressing issues at each stage of implementation. &amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="Most importantly, each team should include a diverse set of members to ensure comprehensive decision-making and promote equity.&amp;#xD;Recommended members includes compensated Tribal representatives or advocates and compensated lived/community experts, county's and/or Tribe's child welfare and probation FFPS/CQI leads and county's and/or Tribe's child welfare and probation administrators, contract holders, and EBP providers (recognizing this may be impossible for large or medium size counties with multiple providers).&amp;#xD;Diverse membership isn’t just a checkbox—it ensures decisions are informed by real-world experiences and promotes equity through an inclusive approach.&amp;#xD;CDSS is committed to supporting counties in compensating Tribal representatives, lived experts, and community experts for their participation – more on this will be shared in coming months.&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="&amp;#xA;" /&gt;
+    &lt;/Block&gt;
+    &lt;Block&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="In the next lesson, we will learn more about the process of maintaining a CQI Data Infrastructure." /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
       <slidetranscript slideid="6D1mfzg1KER.6JHUADSm56S" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="9">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="SinglePt5"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" Color="#000000" BulletFont="Arial" /&gt;
-      &lt;/Style&gt;
+      &lt;Style /&gt;
       &lt;Span Text="This slide should look familiar- it is California’s 5-Step CQI process. As a recap, step one is to define the problem, step two is understand the underlying conditions, step 3 is identify a solution and plan for implementation, step 4 is implementation of the solution, and step five is testing the solution and revise the approach as needed.  " /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
@@ -1915,14 +1873,8 @@
       <slidetranscript slideid="6D1mfzg1KER.6iLIah4zdzG" slidebank="false" type="slide" noteswf="" notespng="" pathlib="Lib" pathindex="10">&lt;Document xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
   &lt;Content&gt;
     &lt;Block&gt;
-      &lt;Style FlowDirection="LeftToRight" TrailingMargin="0" LineSpacingRule="Single" LineSpacing="20"&gt;
-        &lt;ListStyle ListType="None" ListTypeFormat="Parentheses" BulletChar="·" BulletFont="Arial"&gt;
-          &lt;BulletPicture Size="0x0" /&gt;
-        &lt;/ListStyle&gt;
-      &lt;/Style&gt;
-      &lt;Span Text="You may remember the measurement framework from module 4. The measurement framework is a way to organize metrics that will be used in the overall 5-step CQI process. As you learned in Module 2, the four main components are: capacity (the program’s ability to serve participants effectively, based on its structure, such as having an adequate number of staff), reach (tracking referrals), fidelity (whether the program is being delivered as intended by its developers), and outcomes (the impact on youth and families)."&gt;
-        &lt;Style FontFamily="Lato" FontSize="12" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="dk1,09" BackgroundColor="#000000,00" Elevation="Normal" Spacing="0" DisplayCase="AsIs" /&gt;
-      &lt;/Span&gt;
+      &lt;Style /&gt;
+      &lt;Span Text="You may remember the measurement framework from module 4. The measurement framework is a way to organize metrics that will be used in the overall 5-step CQI process. As you learned in Module 2, the four main components are: capacity (the program’s ability to serve participants effectively, based on its structure, such as having an adequate number of staff), reach (tracking referrals), fidelity (whether the program is being delivered as intended by its developers), and outcomes (the impact on youth and families)." /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
@@ -1948,21 +1900,7 @@
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="The population and subgroup you use depends on the metric — for example: &amp;#xD;For a metric about case closures, your population may be all cases closed this quarter&amp;#xD;For a metric about race, your population may be all children in foster care, with subgroups by racial or ethnic category&amp;#xD;Percents are often calculated by dividing a subgroup by its larger population — this allows you to compare groups fairly even when their sizes differ&amp;#xD;Defining the population and subgroups clearly is the foundation of any meaningful metric"&gt;
-        &lt;Style FontFamily="Azo Sans" /&gt;
-      &lt;/Span&gt;
-      &lt;Span Text="&amp;#xD;&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style /&gt;
-      &lt;Span Text="&amp;#xD;&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style /&gt;
-      &lt;Span Text="&amp;#xA;" /&gt;
-    &lt;/Block&gt;
-    &lt;Block&gt;
-      &lt;Style /&gt;
+      &lt;Span Text="The population and subgroup you use depends on the metric — for example: &amp;#xD;For a metric about case closures, your population may be all cases closed this quarter.&amp;#xD;For a metric about race, your population may be all children in foster care, with subgroups by racial or ethnic category.&amp;#xD;Percents are often calculated by dividing a subgroup by its larger population — this allows you to compare groups fairly even when their sizes differ.&amp;#xD;Defining the population and subgroups clearly is the foundation of any meaningful metric." /&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
@@ -2058,7 +1996,10 @@
   &lt;Content&gt;
     &lt;Block&gt;
       &lt;Style /&gt;
-      &lt;Span Text="Now it is time to check your learning. Can you identify the who, what, when, and where on this bar chart?" /&gt;
+      &lt;Span Text="You will be referring back to this chart in order to answer the Check Your Learning questions. " /&gt;
+      &lt;Span Text="Can you identify the who, what, when, and where on this bar chart?&amp;#xD;&amp;#xD;After you are done reviewing, select “Next” to move onto the first question."&gt;
+        &lt;Style FontFamily="Lato" FontSize="12" FontIsBold="False" FontIsItalic="False" FontIsUnderline="False" FontIsStrikeout="False" ForegroundColor="dk1,09" BackgroundColor="#000000,00" Elevation="Normal" Spacing="0" DisplayCase="AsIs" /&gt;
+      &lt;/Span&gt;
     &lt;/Block&gt;
   &lt;/Content&gt;
 &lt;/Document&gt;</slidetranscript>
